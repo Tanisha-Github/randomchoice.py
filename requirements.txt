@@ -1,0 +1,3 @@
+Requirements for the game:
+Version 3 of pyhton is required.
+No external libraries are needed. 
